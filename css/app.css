@@ -36,7 +36,7 @@ body {
     flex: 0 1 200px;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center; 
     text-align: center;
 }
 
